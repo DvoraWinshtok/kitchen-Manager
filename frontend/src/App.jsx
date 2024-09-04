@@ -8,7 +8,6 @@ import ShoppingList from "./pages/ShoppingList";
 import Recipes from "./pages/recipes";
 import RecipeFilter from "./pages/RecipeFinder";
 import Pantry from "./pages/Pantry";
-import DeleteProductFromShoppingList from "./pages/DeleteProductFromShoppingList";
 import CategoryProducts from "./pages/CategoryProducts";
 import RecipeDetails from "./pages/RecipeDetails";
 import EditRecipe from "./pages/EditRecipe";
@@ -26,7 +25,6 @@ const App = () => {
         <Route path="/products/deleteProduct/:id" element={<DeleteProduct/>}/>
         <Route path="/shoppingList" element={<ShoppingList/>}/>
         <Route path="/pantry" element={<Pantry/>}/>
-        <Route path="/shoppimgList/deleteProduct/:id" element={<DeleteProductFromShoppingList/>}/>
         <Route path="/recipes/category/:category" element={<RecipeFilter />} />
         <Route path='/recipes/details/:id' element={<RecipeDetails />} />
         <Route path="/recipes/editRecipe/:id" element={<EditRecipe/>}/>

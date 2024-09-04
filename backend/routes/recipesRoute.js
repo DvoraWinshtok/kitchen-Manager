@@ -140,37 +140,10 @@ router.get('/', async (req, res) => {
       res.status(500).send({ message: error.message });
     }
   });
-  // router.post('/', async (req, res) => {
-  //   try {
-  //     if (
-  //       !req.body.recipe_name ||
-  //       !req.body.preparation ||
-  //       !req.body.image||
-  //       !req.body.category,
-  //       !req.body.expiryDate
-  //     ) {
-  //       return res.status(400).send({
-  //         message: 'Missing required fields: recipe_name, preparation, image, category',
-  //       });
-  //     }
-  //     const newRecipe = {
-  //       recipe_name: req.body.recipe_name,
-  //       preparation: req.body.preparation,
-  //       image: req.body.image,
-  //       category:req.body.category,
-  //       expiryDate:req.body.expiryDate
+ 
 
-        
-  //     };
-  
-  //     const recipe = await Recipe.create(newRecipe);
-  
-  //     return res.status(201).send(recipe);
-  //   } catch (error) {
-  //     console.log(error.message);
-  //     res.status(500).send({ message: error.message });
-  //   }
-  // });
+
+
   router.post('/', async (req, res) => {
     try {
       // בדיקה לשדות חובה
