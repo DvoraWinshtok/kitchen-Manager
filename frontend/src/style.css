@@ -1,0 +1,662 @@
+.element {
+    background-color: #f9f7f4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element .div-2 {
+    background-color: #f9f7f4;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .element .overlap-group-wrapper {
+    height: 269px;
+    left: 1397px;
+    position: absolute;
+    top: 339px;
+    width: 234px;
+  }
+  
+  .element .overlap-group-2 {
+    height: 269px;
+    position: relative;
+  }
+  
+  .element .rectangle {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 72px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-6 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 160px;
+    width: 229px;
+  }
+  
+  .element .layer {
+    height: 119px;
+    left: 69px;
+    position: absolute;
+    top: 0;
+    width: 102px;
+  }
+  
+  .element .overlap-wrapper {
+    height: 290px;
+    left: 1072px;
+    position: absolute;
+    top: 318px;
+    width: 234px;
+  }
+  
+  .element .overlap {
+    height: 290px;
+    position: relative;
+  }
+  
+  .element .rectangle-2 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 93px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-7 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 181px;
+    width: 229px;
+  }
+  
+  .element .img {
+    height: 140px;
+    left: 42px;
+    position: absolute;
+    top: 0;
+    width: 155px;
+  }
+  
+  .element .frame-2 {
+    height: 302px;
+    left: 747px;
+    position: absolute;
+    top: 306px;
+    width: 235px;
+  }
+  
+  .element .overlap-2 {
+    height: 302px;
+    position: relative;
+  }
+  
+  .element .rectangle-3 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 105px;
+    width: 235px;
+  }
+  
+  .element .text-wrapper-8 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 193px;
+    width: 229px;
+  }
+  
+  .element .layer-2 {
+    height: 149px;
+    left: 90px;
+    position: absolute;
+    top: 0;
+    width: 60px;
+  }
+  
+  .element .overlap-group-3 {
+    height: 149px;
+    position: relative;
+  }
+  
+  .element .rectangle-4 {
+    background-color: #ac8d75;
+    height: 32px;
+    left: 5px;
+    position: absolute;
+    top: 58px;
+    width: 50px;
+  }
+  
+  .element .vector {
+    height: 56px;
+    left: 2px;
+    position: absolute;
+    top: 90px;
+    width: 56px;
+  }
+  
+  .element .group-3 {
+    height: 149px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60px;
+  }
+  
+  .element .vector-2 {
+    height: 22px;
+    left: 5px;
+    position: absolute;
+    top: 33px;
+    width: 49px;
+  }
+  
+  .element .vector-3 {
+    height: 10px;
+    left: 22px;
+    position: absolute;
+    top: 18px;
+    width: 16px;
+  }
+  
+  .element .vector-4 {
+    height: 8px;
+    left: 22px;
+    position: absolute;
+    top: 5px;
+    width: 15px;
+  }
+  
+  .element .frame-3 {
+    height: 270px;
+    left: 423px;
+    position: absolute;
+    top: 338px;
+    width: 234px;
+  }
+  
+  .element .overlap-3 {
+    height: 270px;
+    position: relative;
+  }
+  
+  .element .rectangle-5 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 73px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-9 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 161px;
+    width: 229px;
+  }
+  
+  .element .layer-3 {
+    height: 120px;
+    left: 40px;
+    position: absolute;
+    top: 0;
+    width: 157px;
+  }
+  
+  .element .frame-4 {
+    height: 282px;
+    left: 98px;
+    position: absolute;
+    top: 326px;
+    width: 234px;
+  }
+  
+  .element .overlap-4 {
+    height: 282px;
+    position: relative;
+  }
+  
+  .element .rectangle-6 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 85px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-10 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 158px;
+    width: 229px;
+  }
+  
+  .element .layer-4 {
+    height: 132px;
+    left: 64px;
+    position: absolute;
+    top: 0;
+    width: 109px;
+  }
+  
+  .element .frame-5 {
+    height: 271px;
+    left: 747px;
+    position: absolute;
+    top: 712px;
+    width: 234px;
+  }
+  
+  .element .overlap-5 {
+    height: 271px;
+    position: relative;
+  }
+  
+  .element .rectangle-7 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 74px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-11 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 145px;
+    width: 229px;
+  }
+  
+  .element .layer-5 {
+    height: 121px;
+    left: 56px;
+    position: absolute;
+    top: 0;
+    width: 122px;
+  }
+  
+  .element .frame-6 {
+    height: 276px;
+    left: 1397px;
+    position: absolute;
+    top: 706px;
+    width: 234px;
+  }
+  
+  .element .overlap-6 {
+    height: 276px;
+    position: relative;
+  }
+  
+  .element .rectangle-8 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 79px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-12 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 151px;
+    width: 226px;
+  }
+  
+  .element .layer-6 {
+    height: 127px;
+    left: 56px;
+    position: absolute;
+    top: 0;
+    width: 128px;
+  }
+  
+  .element .frame-7 {
+    height: 297px;
+    left: 423px;
+    position: absolute;
+    top: 686px;
+    width: 234px;
+  }
+  
+  .element .overlap-7 {
+    height: 297px;
+    position: relative;
+  }
+  
+  .element .rectangle-9 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 100px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-13 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 171px;
+    width: 229px;
+  }
+  
+  .element .layer-7 {
+    height: 147px;
+    left: 65px;
+    position: absolute;
+    top: 0;
+    width: 107px;
+  }
+  
+  .element .frame-8 {
+    height: 275px;
+    left: 97px;
+    position: absolute;
+    top: 708px;
+    width: 234px;
+  }
+  
+  .element .overlap-8 {
+    height: 275px;
+    position: relative;
+  }
+  
+  .element .rectangle-10 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 78px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-14 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 149px;
+    width: 229px;
+  }
+  
+  .element .layer-8 {
+    height: 125px;
+    left: 57px;
+    position: absolute;
+    top: 0;
+    width: 126px;
+  }
+  
+  .element .frame-9 {
+    height: 309px;
+    left: 1072px;
+    position: absolute;
+    top: 673px;
+    width: 234px;
+  }
+  
+  .element .overlap-9 {
+    height: 309px;
+    position: relative;
+  }
+  
+  .element .rectangle-11 {
+    background-color: #ede8e1;
+    border-radius: 0px 0px 43px 43px;
+    height: 197px;
+    left: 0;
+    position: absolute;
+    top: 112px;
+    width: 234px;
+  }
+  
+  .element .text-wrapper-15 {
+    color: #ac8d75;
+    direction: rtl;
+    font-family: "Placebo FM-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 184px;
+    width: 229px;
+  }
+  
+  .element .layer-9 {
+    height: 160px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 120px;
+  }
+  
+  .element .rectangle-12 {
+    background-color: #ac8d75;
+    height: 17px;
+    left: 64px;
+    position: absolute;
+    top: 62px;
+    width: 55px;
+  }
+  
+  .element .rectangle-13 {
+    background-color: #ac8d75;
+    height: 18px;
+    left: 64px;
+    position: absolute;
+    top: 138px;
+    width: 54px;
+  }
+  
+  .element .frame-10 {
+    height: 50px;
+    left: 98px;
+    position: absolute;
+    top: 148px;
+    width: 1533px;
+  }
+  
+  .element .overlap-10 {
+    height: 50px;
+    position: relative;
+  }
+  
+  .element .group-4 {
+    height: 26px;
+    left: 0;
+    position: absolute;
+    top: 6px;
+    width: 1533px;
+  }
+  
+  .element .frame-11 {
+    height: 26px;
+    left: 1440px;
+    position: absolute;
+    top: 0;
+    width: 56px;
+  }
+  
+  .element .text-wrapper-16 {
+    color: #391e0f;
+    direction: rtl;
+    font-family: "Ploni Round AAA-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+    width: 56px;
+  }
+  
+  .element .frame-12 {
+    height: 13px;
+    left: 1525px;
+    position: absolute;
+    top: 13px;
+    width: 8px;
+  }
+  
+  .element .frame-13 {
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 13px;
+    width: 8px;
+  }
+  
+  .element .frame-14 {
+    height: 50px;
+    left: 25px;
+    position: absolute;
+    top: 0;
+    width: 198px;
+  }
+  
+  .element .overlap-group-4 {
+    background-color: #ede8e1;
+    border: 1px solid;
+    border-color: #391e0f;
+    border-radius: 30px;
+    height: 50px;
+    position: relative;
+    width: 195px;
+  }
+  
+  .element .text-wrapper-17 {
+    color: #391e0f;
+    direction: rtl;
+    font-family: "Ploni Round AAA-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4px;
+    width: 135px;
+  }
+  
+  .element .mi-add {
+    height: 24px;
+    left: 155px;
+    position: absolute;
+    top: 12px;
+    width: 24px;
+  }
+  
+  .element .frame-15 {
+    height: 30px;
+    left: 242px;
+    position: absolute;
+    top: 10px;
+    width: 30px;
+  }
+  
+  .element .frame-38763 {
+    left: 97px !important;
+    position: absolute !important;
+    top: 71px !important;
+  }
+  
