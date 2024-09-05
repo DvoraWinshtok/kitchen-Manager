@@ -132,7 +132,7 @@ const CreateProduct = ({ isVisible, onClose }) => {
     "שימורים ומזון יבש",
     "תבלינים ורטבים",
     "אפיה",
-    "דגים ובשר"
+    "בשר ודגים"
   ];
 
   const handleSaveProduct = () => {

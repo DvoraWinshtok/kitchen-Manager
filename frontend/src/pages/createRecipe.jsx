@@ -52,7 +52,7 @@ const CreateRecipe = ({ isVisible, onClose }) => {
         setTimeout(() => {
           setShowSuccessMessage(false); // הסתרת הודעת הצלחה אחרי 3 שניות
           onClose(); // סגירת הטופס לאחר שמירת המתכון
-          navigate('/'); // ניווט לעמוד הבית
+          navigate('/recipes'); // ניווט לעמוד הבית
         }, 3000);
       })
       .catch((error) => {
